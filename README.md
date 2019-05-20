@@ -14,6 +14,6 @@ the exponentiated average per-token NLL (over all tokens)
   - Detailed evaluation of trained models
   
 more details and .py codes\
-  %$* https://github.com/sebastianruder/NLP-progress/blob/master/english/language_modeling.md\
-  %$*+= https://github.com/JonathanRaiman/pytreebank/blob/master/README.md
+  - https://github.com/sebastianruder/NLP-progress/blob/master/english/language_modeling.md\
+  - https://github.com/JonathanRaiman/pytreebank/blob/master/README.md
   
