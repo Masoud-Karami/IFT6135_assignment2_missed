@@ -13,7 +13,7 @@ Convolutional Neural Network
 the exponentiated average per-token NLL (over all tokens)
   - Detailed evaluation of trained models
   
-more details and .py codes\
+more details and .py codes
 - [Language modeling is the task of predicting the next word or character in a document](https://github.com/sebastianruder/NLPprogress/blob/master/english/language_modeling.md)
 - [Compression of Recurrent Neural Networks for Efficient Language Modeling](https://arxiv.org/pdf/1902.02380.pdf)
 - [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/pdf/1708.02709.pdf)
