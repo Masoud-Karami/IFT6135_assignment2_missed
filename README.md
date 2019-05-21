@@ -4,9 +4,9 @@ Word Level Models
 Convolutional Neural Network
 ----------------------------
   - simple ("vanilla") RNN (recurrent neural network)
-      - "Vanilla" Stochastic Gradient Descent (SGD)
-      - SGD with a learning rate schedule
-      - Adam
+      * "Vanilla" Stochastic Gradient Descent (SGD)
+      * SGD with a learning rate schedule
+      * Adam
   - RNN with a gating mecahnism, Gated Recurrent Units (GRUs)
   - Attention Module of a Transformer Network
   - Training Language Models (cross-entropy loss as its performance) and report perplexity (PPL), which is
