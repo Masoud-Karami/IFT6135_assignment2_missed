@@ -14,7 +14,6 @@ the exponentiated average per-token NLL (over all tokens)
   - Detailed evaluation of trained models
   
 more details and .py codes\
-  - [Language modeling is the task of predicting the next word or character in a document](https://github.com/sebastianruder/NLP-progress/blob/master/english/language_modeling.md\)
+  - [Language modeling is the task of predicting the next word or character in a document](https://github.com/sebastianruder/NLP-progress/blob/master/english/language_modeling.md)
   - https://github.com/JonathanRaiman/pytreebank/blob/master/README.md
-  - https://arxiv.org/pdf/1708.02709.pdf         arXiv:1708.02709v8 [cs.CL] 25 Nov 2018
-  - https://arxiv.org/pdf/1902.02380.pdf         
+  - [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/pdf/1708.02709.pdf)
